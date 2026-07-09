@@ -1,0 +1,13 @@
+{
+  "versions": {
+    "tv": 1.0,
+    "mobile": 1.0
+  },
+  "downloads": {
+    "tv": "",
+    "mobile": ""
+  },
+  "changeLog": {
+    ""
+  }
+}
